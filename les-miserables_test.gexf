@@ -627,19 +627,6 @@
       </node>
     </nodes>
     <edges>
-      <edge id="0" source="1" target="0">
-        <attvalues></attvalues>
-      </edge>
-      <edge id="1" source="2" target="0" weight="8.0">
-        <attvalues></attvalues>
-      </edge>
-      <edge id="2" source="3" target="0" weight="10.0">
-        <attvalues></attvalues>
-      </edge>
-      <edge id="3" source="3" target="2" weight="6.0">
-        <attvalues></attvalues>
-      </edge>
- 
     </edges>
   </graph>
 </gexf>
