@@ -626,7 +626,5 @@
         <viz:color r="236" g="81" b="72"></viz:color>
       </node>
     </nodes>
-    <edges>
-    </edges>
   </graph>
 </gexf>
