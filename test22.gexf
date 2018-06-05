@@ -13,469 +13,469 @@
         <attvalues>
           <attvalue for="modularity_class" value="3"></attvalue>
         </attvalues>
-        <viz:size value="7.015529220345105"></viz:size>
+        <viz:size value="25.709920264364882"></viz:size>
       </node>
       <node id="1" label="connected">
         <attvalues>
           <attvalue for="modularity_class" value="3"></attvalue>
         </attvalues>
-        <viz:size value="7.012343480343795"></viz:size>
+        <viz:size value="25.69046515733026"></viz:size>
       </node>
       <node id="2" label="wearable">
         <attvalues>
           <attvalue for="modularity_class" value="3"></attvalue>
         </attvalues>
-        <viz:size value="7.754619810536564"></viz:size>
+        <viz:size value="30.380915061926625"></viz:size>
       </node>
       <node id="3" label="esp8266">
         <attvalues>
           <attvalue for="modularity_class" value="1"></attvalue>
         </attvalues>
-        <viz:size value="4.129747824285516"></viz:size>
+        <viz:size value="10.63014581273465"></viz:size>
       </node>
       <node id="4" label="enterprise">
         <attvalues>
           <attvalue for="modularity_class" value="6"></attvalue>
         </attvalues>
-        <viz:size value="9.44812005143346"></viz:size>
+        <viz:size value="42.22558466143482"></viz:size>
       </node>
       <node id="5" label="connectivity">
         <attvalues>
           <attvalue for="modularity_class" value="2"></attvalue>
         </attvalues>
-        <viz:size value="5.022707877315739"></viz:size>
+        <viz:size value="14.730919862656235"></viz:size>
       </node>
       <node id="6" label="hardware">
         <attvalues>
           <attvalue for="modularity_class" value="3"></attvalue>
         </attvalues>
-        <viz:size value="9.77786052949636"></viz:size>
+        <viz:size value="44.710177812216315"></viz:size>
       </node>
       <node id="7" label="fpga">
         <attvalues>
           <attvalue for="modularity_class" value="1"></attvalue>
         </attvalues>
-        <viz:size value="4.795720712826159"></viz:size>
+        <viz:size value="13.638181696985855"></viz:size>
       </node>
       <node id="8" label="microservices">
         <attvalues>
           <attvalue for="modularity_class" value="4"></attvalue>
         </attvalues>
-        <viz:size value="8.292046763254593"></viz:size>
+        <viz:size value="33.97057550292606"></viz:size>
       </node>
       <node id="9" label="wireless">
         <attvalues>
           <attvalue for="modularity_class" value="5"></attvalue>
         </attvalues>
-        <viz:size value="8.119769135790586"></viz:size>
+        <viz:size value="32.802438933713454"></viz:size>
       </node>
       <node id="10" label="portable">
         <attvalues>
           <attvalue for="modularity_class" value="1"></attvalue>
         </attvalues>
-        <viz:size value="6.123148428752606"></viz:size>
+        <viz:size value="20.493901531919196"></viz:size>
       </node>
       <node id="11" label="soc">
         <attvalues>
           <attvalue for="modularity_class" value="1"></attvalue>
         </attvalues>
-        <viz:size value="3.9810717055349722"></viz:size>
+        <viz:size value="10.0"></viz:size>
       </node>
       <node id="12" label="bluetooth">
         <attvalues>
           <attvalue for="modularity_class" value="3"></attvalue>
         </attvalues>
-        <viz:size value="5.9792886251837345"></viz:size>
+        <viz:size value="19.697715603592208"></viz:size>
       </node>
       <node id="13" label="raspberry">
         <attvalues>
           <attvalue for="modularity_class" value="7"></attvalue>
         </attvalues>
-        <viz:size value="9.22252350330511"></viz:size>
+        <viz:size value="40.55859958134649"></viz:size>
       </node>
       <node id="14" label="pi">
         <attvalues>
           <attvalue for="modularity_class" value="7"></attvalue>
         </attvalues>
-        <viz:size value="9.830357771365206"></viz:size>
+        <viz:size value="45.110974274559844"></viz:size>
       </node>
       <node id="15" label="sensor">
         <attvalues>
           <attvalue for="modularity_class" value="3"></attvalue>
         </attvalues>
-        <viz:size value="7.332779586609136"></viz:size>
+        <viz:size value="27.676705006196094"></viz:size>
       </node>
       <node id="16" label="iot">
         <attvalues>
           <attvalue for="modularity_class" value="3"></attvalue>
         </attvalues>
-        <viz:size value="9.384026296865388"></viz:size>
+        <viz:size value="41.7492514902962"></viz:size>
       </node>
       <node id="17" label="diy">
         <attvalues>
           <attvalue for="modularity_class" value="1"></attvalue>
         </attvalues>
-        <viz:size value="7.094098834057658"></viz:size>
+        <viz:size value="26.19160170741759"></viz:size>
       </node>
       <node id="18" label="smart">
         <attvalues>
           <attvalue for="modularity_class" value="3"></attvalue>
         </attvalues>
-        <viz:size value="11.236890992675459"></viz:size>
+        <viz:size value="56.37375275782161"></viz:size>
       </node>
       <node id="19" label="hackable">
         <attvalues>
           <attvalue for="modularity_class" value="1"></attvalue>
         </attvalues>
-        <viz:size value="4.307080666837073"></viz:size>
+        <viz:size value="11.40175425099138"></viz:size>
       </node>
       <node id="20" label="solar-powered">
         <attvalues>
           <attvalue for="modularity_class" value="1"></attvalue>
         </attvalues>
-        <viz:size value="4.028190508306193"></viz:size>
+        <viz:size value="10.198039027185569"></viz:size>
       </node>
       <node id="21" label="controlling">
         <attvalues>
           <attvalue for="modularity_class" value="2"></attvalue>
         </attvalues>
-        <viz:size value="4.908613271164895"></viz:size>
+        <viz:size value="14.177446878757825"></viz:size>
       </node>
       <node id="22" label="controlled">
         <attvalues>
           <attvalue for="modularity_class" value="1"></attvalue>
         </attvalues>
-        <viz:size value="5.4678645329573055"></viz:size>
+        <viz:size value="16.97056274847714"></viz:size>
       </node>
       <node id="23" label="connecting">
         <attvalues>
           <attvalue for="modularity_class" value="2"></attvalue>
         </attvalues>
-        <viz:size value="5.690609301270428"></viz:size>
+        <viz:size value="18.138357147217054"></viz:size>
       </node>
       <node id="24" label="smartwatches">
         <attvalues>
           <attvalue for="modularity_class" value="1"></attvalue>
         </attvalues>
-        <viz:size value="4.062703547247622"></viz:size>
+        <viz:size value="10.344080432788601"></viz:size>
       </node>
       <node id="25" label="fitness">
         <attvalues>
           <attvalue for="modularity_class" value="3"></attvalue>
         </attvalues>
-        <viz:size value="6.105595086499638"></viz:size>
+        <viz:size value="20.396078054371138"></viz:size>
       </node>
       <node id="26" label="gadget">
         <attvalues>
           <attvalue for="modularity_class" value="3"></attvalue>
         </attvalues>
-        <viz:size value="6.0522158633310745"></viz:size>
+        <viz:size value="20.09975124224178"></viz:size>
       </node>
       <node id="27" label="touchscreen">
         <attvalues>
           <attvalue for="modularity_class" value="1"></attvalue>
         </attvalues>
-        <viz:size value="4.2668872156327415"></viz:size>
+        <viz:size value="11.224972160321824"></viz:size>
       </node>
       <node id="28" label="smartwatch">
         <attvalues>
           <attvalue for="modularity_class" value="3"></attvalue>
         </attvalues>
-        <viz:size value="5.946720032615433"></viz:size>
+        <viz:size value="19.519221295943137"></viz:size>
       </node>
       <node id="29" label="smartphone">
         <attvalues>
           <attvalue for="modularity_class" value="3"></attvalue>
         </attvalues>
-        <viz:size value="9.468733637531239"></viz:size>
+        <viz:size value="42.37924020083418"></viz:size>
       </node>
       <node id="30" label="smartphones">
         <attvalues>
           <attvalue for="modularity_class" value="3"></attvalue>
         </attvalues>
-        <viz:size value="7.158562550893559"></viz:size>
+        <viz:size value="26.589471600616662"></viz:size>
       </node>
       <node id="31" label="ethernet">
         <attvalues>
           <attvalue for="modularity_class" value="1"></attvalue>
         </attvalues>
-        <viz:size value="4.316993439835684"></viz:size>
+        <viz:size value="11.445523142259598"></viz:size>
       </node>
       <node id="32" label="x86">
         <attvalues>
           <attvalue for="modularity_class" value="0"></attvalue>
         </attvalues>
-        <viz:size value="5.8170256472764805"></viz:size>
+        <viz:size value="18.81488772222678"></viz:size>
       </node>
       <node id="33" label="emulation">
         <attvalues>
           <attvalue for="modularity_class" value="1"></attvalue>
         </attvalues>
-        <viz:size value="4.450516348093168"></viz:size>
+        <viz:size value="12.041594578792296"></viz:size>
       </node>
       <node id="34" label="adapter">
         <attvalues>
           <attvalue for="modularity_class" value="1"></attvalue>
         </attvalues>
-        <viz:size value="4.708812684017387"></viz:size>
+        <viz:size value="13.228756555322953"></viz:size>
       </node>
       <node id="35" label="compatible">
         <attvalues>
           <attvalue for="modularity_class" value="2"></attvalue>
         </attvalues>
-        <viz:size value="5.111146753691812"></viz:size>
+        <viz:size value="15.165750888103101"></viz:size>
       </node>
       <node id="36" label="paas">
         <attvalues>
           <attvalue for="modularity_class" value="4"></attvalue>
         </attvalues>
-        <viz:size value="5.812091082727481"></viz:size>
+        <viz:size value="18.788294228055936"></viz:size>
       </node>
       <node id="37" label="sap">
         <attvalues>
           <attvalue for="modularity_class" value="2"></attvalue>
         </attvalues>
-        <viz:size value="4.834037444950487"></viz:size>
+        <viz:size value="13.820274961085254"></viz:size>
       </node>
       <node id="38" label="cloud">
         <attvalues>
           <attvalue for="modularity_class" value="6"></attvalue>
         </attvalues>
-        <viz:size value="14.193460696449876"></viz:size>
+        <viz:size value="83.20456718233682"></viz:size>
       </node>
       <node id="39" label="cio">
         <attvalues>
           <attvalue for="modularity_class" value="2"></attvalue>
         </attvalues>
-        <viz:size value="4.384940713986203"></viz:size>
+        <viz:size value="11.74734012447073"></viz:size>
       </node>
       <node id="40" label="devops">
         <attvalues>
           <attvalue for="modularity_class" value="4"></attvalue>
         </attvalues>
-        <viz:size value="8.911053152601031"></viz:size>
+        <viz:size value="38.301436004411116"></viz:size>
       </node>
       <node id="41" label="openstack">
         <attvalues>
           <attvalue for="modularity_class" value="4"></attvalue>
         </attvalues>
-        <viz:size value="6.598977226041762"></viz:size>
+        <viz:size value="23.2163735324878"></viz:size>
       </node>
       <node id="42" label="openshift">
         <attvalues>
           <attvalue for="modularity_class" value="2"></attvalue>
         </attvalues>
-        <viz:size value="4.496011130479918"></viz:size>
+        <viz:size value="12.24744871391589"></viz:size>
       </node>
       <node id="43" label="vmware">
         <attvalues>
           <attvalue for="modularity_class" value="1"></attvalue>
         </attvalues>
-        <viz:size value="5.9231994054287815"></viz:size>
+        <viz:size value="19.390719429665317"></viz:size>
       </node>
       <node id="44" label="crm">
         <attvalues>
           <attvalue for="modularity_class" value="2"></attvalue>
         </attvalues>
-        <viz:size value="5.04343936938931"></viz:size>
+        <viz:size value="14.832396974191326"></viz:size>
       </node>
       <node id="45" label="governance">
         <attvalues>
           <attvalue for="modularity_class" value="2"></attvalue>
         </attvalues>
-        <viz:size value="4.54045639746107"></viz:size>
+        <viz:size value="12.449899597988733"></viz:size>
       </node>
       <node id="46" label="mesh">
         <attvalues>
           <attvalue for="modularity_class" value="2"></attvalue>
         </attvalues>
-        <viz:size value="4.944930204597636"></viz:size>
+        <viz:size value="14.352700094407323"></viz:size>
       </node>
       <node id="47" label="5g">
         <attvalues>
           <attvalue for="modularity_class" value="1"></attvalue>
         </attvalues>
-        <viz:size value="4.316993439835684"></viz:size>
+        <viz:size value="11.445523142259598"></viz:size>
       </node>
       <node id="48" label="routing">
         <attvalues>
           <attvalue for="modularity_class" value="2"></attvalue>
         </attvalues>
-        <viz:size value="5.695792795982273"></viz:size>
+        <viz:size value="18.16590212458495"></viz:size>
       </node>
       <node id="49" label="lte">
         <attvalues>
           <attvalue for="modularity_class" value="1"></attvalue>
         </attvalues>
-        <viz:size value="4.575295380404088"></viz:size>
+        <viz:size value="12.609520212918492"></viz:size>
       </node>
       <node id="50" label="4g">
         <attvalues>
           <attvalue for="modularity_class" value="1"></attvalue>
         </attvalues>
-        <viz:size value="4.085337583465575"></viz:size>
+        <viz:size value="10.44030650891055"></viz:size>
       </node>
       <node id="51" label="gigabit">
         <attvalues>
           <attvalue for="modularity_class" value="1"></attvalue>
         </attvalues>
-        <viz:size value="4.41332320594846"></viz:size>
+        <viz:size value="11.874342087037917"></viz:size>
       </node>
       <node id="52" label="enabling">
         <attvalues>
           <attvalue for="modularity_class" value="2"></attvalue>
         </attvalues>
-        <viz:size value="4.811132911155357"></viz:size>
+        <viz:size value="13.711309200802088"></viz:size>
       </node>
       <node id="53" label="ipv6">
         <attvalues>
           <attvalue for="modularity_class" value="2"></attvalue>
         </attvalues>
-        <viz:size value="5.9792886251837345"></viz:size>
+        <viz:size value="19.697715603592208"></viz:size>
       </node>
       <node id="54" label="electronics">
         <attvalues>
           <attvalue for="modularity_class" value="3"></attvalue>
         </attvalues>
-        <viz:size value="6.436421886465872"></viz:size>
+        <viz:size value="22.271057451320086"></viz:size>
       </node>
       <node id="55" label="firmware">
         <attvalues>
           <attvalue for="modularity_class" value="1"></attvalue>
         </attvalues>
-        <viz:size value="5.6802091331351034"></viz:size>
+        <viz:size value="18.083141320025124"></viz:size>
       </node>
       <node id="56" label="workstation">
         <attvalues>
           <attvalue for="modularity_class" value="1"></attvalue>
         </attvalues>
-        <viz:size value="4.2870938501451725"></viz:size>
+        <viz:size value="11.313708498984761"></viz:size>
       </node>
       <node id="57" label="software">
         <attvalues>
           <attvalue for="modularity_class" value="3"></attvalue>
         </attvalues>
-        <viz:size value="16.2921659172075"></viz:size>
+        <viz:size value="104.70434565957613"></viz:size>
       </node>
       <node id="58" label="risc-v">
         <attvalues>
           <attvalue for="modularity_class" value="1"></attvalue>
         </attvalues>
-        <viz:size value="4.01653140849876"></viz:size>
+        <viz:size value="10.14889156509222"></viz:size>
       </node>
       <node id="59" label="cpu">
         <attvalues>
           <attvalue for="modularity_class" value="0"></attvalue>
         </attvalues>
-        <viz:size value="7.522285545500317"></viz:size>
+        <viz:size value="28.879058156387302"></viz:size>
       </node>
       <node id="60" label="pc">
         <attvalues>
           <attvalue for="modularity_class" value="3"></attvalue>
         </attvalues>
-        <viz:size value="8.809482740157401"></viz:size>
+        <viz:size value="37.57658845611187"></viz:size>
       </node>
       <node id="61" label="arm">
         <attvalues>
           <attvalue for="modularity_class" value="0"></attvalue>
         </attvalues>
-        <viz:size value="8.332770172329472"></viz:size>
+        <viz:size value="34.249087579087416"></viz:size>
       </node>
       <node id="62" label="gpu">
         <attvalues>
           <attvalue for="modularity_class" value="0"></attvalue>
         </attvalues>
-        <viz:size value="7.025066243414747"></viz:size>
+        <viz:size value="25.768197453450252"></viz:size>
       </node>
       <node id="63" label="xeon">
         <attvalues>
           <attvalue for="modularity_class" value="1"></attvalue>
         </attvalues>
-        <viz:size value="4.2870938501451725"></viz:size>
+        <viz:size value="11.313708498984761"></viz:size>
       </node>
       <node id="64" label="amd">
         <attvalues>
           <attvalue for="modularity_class" value="0"></attvalue>
         </attvalues>
-        <viz:size value="6.845184965163165"></viz:size>
+        <viz:size value="24.677925358506133"></viz:size>
       </node>
       <node id="65" label="microservice">
         <attvalues>
           <attvalue for="modularity_class" value="2"></attvalue>
         </attvalues>
-        <viz:size value="5.345069768970537"></viz:size>
+        <viz:size value="16.34013463836819"></viz:size>
       </node>
       <node id="66" label="monolith">
         <attvalues>
           <attvalue for="modularity_class" value="2"></attvalue>
         </attvalues>
-        <viz:size value="4.2668872156327415"></viz:size>
+        <viz:size value="11.224972160321824"></viz:size>
       </node>
       <node id="67" label="kubernetes">
         <attvalues>
           <attvalue for="modularity_class" value="4"></attvalue>
         </attvalues>
-        <viz:size value="8.187032946440354"></viz:size>
+        <viz:size value="33.25657829663178"></viz:size>
       </node>
       <node id="68" label="serverless">
         <attvalues>
           <attvalue for="modularity_class" value="4"></attvalue>
         </attvalues>
-        <viz:size value="6.934851004756971"></viz:size>
+        <viz:size value="25.219040425836983"></viz:size>
       </node>
       <node id="69" label="rabbitmq">
         <attvalues>
           <attvalue for="modularity_class" value="2"></attvalue>
         </attvalues>
-        <viz:size value="4.246454798131757"></viz:size>
+        <viz:size value="11.135528725660043"></viz:size>
       </node>
       <node id="70" label="docker">
         <attvalues>
           <attvalue for="modularity_class" value="4"></attvalue>
         </attvalues>
-        <viz:size value="12.755446197319321"></viz:size>
+        <viz:size value="69.63476143421474"></viz:size>
       </node>
       <node id="71" label="consul">
         <attvalues>
           <attvalue for="modularity_class" value="2"></attvalue>
         </attvalues>
-        <viz:size value="4.162338506563337"></viz:size>
+        <viz:size value="10.770329614269007"></viz:size>
       </node>
       <node id="72" label="container">
         <attvalues>
           <attvalue for="modularity_class" value="4"></attvalue>
         </attvalues>
-        <viz:size value="10.291518668825754"></viz:size>
+        <viz:size value="48.692915295759406"></viz:size>
       </node>
       <node id="73" label="wi-fi">
         <attvalues>
           <attvalue for="modularity_class" value="5"></attvalue>
         </attvalues>
-        <viz:size value="7.683284426828084"></viz:size>
+        <viz:size value="29.916550603303182"></viz:size>
       </node>
       <node id="74" label="wifi">
         <attvalues>
           <attvalue for="modularity_class" value="5"></attvalue>
         </attvalues>
-        <viz:size value="7.628750822532578"></viz:size>
+        <viz:size value="29.563490998188964"></viz:size>
       </node>
       <node id="75" label="modem">
         <attvalues>
           <attvalue for="modularity_class" value="1"></attvalue>
         </attvalues>
-        <viz:size value="4.2668872156327415"></viz:size>
+        <viz:size value="11.224972160321824"></viz:size>
       </node>
       <node id="76" label="cellular">
         <attvalues>
           <attvalue for="modularity_class" value="1"></attvalue>
         </attvalues>
-        <viz:size value="5.259399446795308"></viz:size>
+        <viz:size value="15.905973720586866"></viz:size>
       </node>
       <node id="77" label="usb-c">
         <attvalues>
           <attvalue for="modularity_class" value="1"></attvalue>
         </attvalues>
-        <viz:size value="3.9929733546852777"></viz:size>
+        <viz:size value="10.04987562112089"></viz:size>
       </node>
     </nodes>
     <edges>
